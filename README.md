@@ -1,1 +1,3 @@
 # PALACEBOT
+
+Not fully tested
